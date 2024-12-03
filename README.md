@@ -103,7 +103,7 @@ public class SemaforoConcurrente {
 
 Permite controlar el número de permisos disponibles para acceder al bloque controlado.
 
-Método ejecutarBloqueControlado:
+**Método ejecutarBloqueControlado:**
 
 Adquiere un permiso antes de acceder al bloque controlado.
 
@@ -117,7 +117,7 @@ Configura el número de hilos totales y simultáneos.
 
 Crea y ejecuta los hilos para simular acceso concurrente al bloque controlado.
 
-**Personalización**
+### Personalización
 
 Cambia el valor de numeroHilos para crear más o menos hilos.
 
